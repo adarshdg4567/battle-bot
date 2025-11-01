@@ -6,11 +6,21 @@
   ==================================================================
 -->
 
-## 11/1/2025 - starting drawing my ideas  
+## 11/1/2025 9:21 AM - starting drawing my ideas  
 
 just noticed that 
 blueprint was announced and it's a great time to make a project that I've always wanted. 2 BattleBots to break each other. The big challenge for this project is to make sure they both work in order to do damage.
 
 I started by watching a lot of BattleBots and trying to find different designs from different weight classes. I then drew a couple designs that I liked.
 ![ideas](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI4NywicHVyIjoiYmxvYl9pZCJ9fQ==--e7202aab4c3e4ee1f3e7a3cdb7b8bc87c6ae709e/ideas.jpeg)  
+
+## 11/1/2025 9:28 AM - ideation and diagrams ;)  
+
+Now that I had the idea, I wanted to determine how to build it. I first decided what main components I need to make this idea possible. Each robot needs to be controlled (user feedback), drive, and spin up a weapon system. Once I had an idea of the requirements, I made some high level diagrams to figure how to wire the robots. I also made a power distrubution diagram. This part is quite expensive because different components requires different voltages. In my past experiences, power is the hardest for the projects. This time, I want to wire as neatly as possible. I then broke the BOM into two main sections. Electoronics and Mechanical. After I listed everything I classified them into things I already have and things that I needed to buy. Afterwards, I went on amazon (cheapest and fastest place to get electronics for me) to find the items that I'm missing. I spent a lot of time trying to optimize the budget and keep the cost low.
+
+![High_Level](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a09513fa1ec1e37c39b1ffaf7fc1cc7dc3b37667/High_Level.jpeg)
+
+![High_Level](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--37f19dc9aa9f27c8be01c826431c8a99d628a3c0/High_Level.jpeg)
+
+  
 
