@@ -24,3 +24,12 @@ Now that I had the idea, I wanted to determine how to build it. I first decided 
 
   
 
+## 11/1/2025 9:37 AM - started cading the design  
+
+I spent a lot of time cading out the design. I first started by 150 mm x 150 mm square and placed each component inside where I think would best fit. After I was happy with it I moved on making it 3D. I worked on the front where I had to learn how to create planes at angles to create the angled ramps at the front of the robot. I also caded up the weapon assembly for bot 1. For bot 2, I took similar layout from bot 1 and changed where the weapon is and its support.
+
+![Layout_1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--d68e14ede4b4203438edcc0bfab1a786ff692ad6/Layout_1.png)
+
+![Frame](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ec26e69d55a49eb3fd41a330108eb1d26da8d827/Frame.png)
+  
+
