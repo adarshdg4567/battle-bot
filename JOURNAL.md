@@ -33,7 +33,7 @@ I spent a lot of time cading out the design. I first started by 150 mm x 150 mm 
 ![Frame](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ec26e69d55a49eb3fd41a330108eb1d26da8d827/Frame.png)
   
 
-## 11/3/2025 - I decided to try and fit the components in the chassis  
+## 11/3/2025 3:09 PM - I decided to try and fit the components in the chassis  
 
 Once I had both chasis done, I decided to try and fit the components in the chassis. I followed my original layout and it worked pretty well. I also made the weapon assembly for bot 2. Most of the cad is done for bot 2. For bot 1 I added all the components but as I was adding a top I realized I made the chassis too short so I increased. However, this changed all my other values and so it looks like a mess right now. I’ll fix that for tomorrow and create a schematic.
 
@@ -41,6 +41,16 @@ Once I had both chasis done, I decided to try and fit the components in the chas
 ![Full_Cad_1.2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6fb5a1160618fb5192f24a33046a10ee15eacf1c/Full_Cad_1.2.png)
 ![Full_Cad_1.1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5NywicHVyIjoiYmxvYl9pZCJ9fQ==--163c9defd710cdafbce4c69c7da14ad817c514ae/Full_Cad_1.1.png)
 ![Problem](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--532bd66c7ddc02673c91151f5d623842bafa22fd/Problem.png)
+
+  
+
+## 11/3/2025 3:13 PM - made the schematic and corrected some dimensions  
+
+I fixed up the bot 1 which took a while. I had to go back in the timeline and change a lot of parameters and remake the sketches. also made the schematic for the robot. I had to search a lot of the pinouts and I also finally figured out the motor controller for the drive wheels. I’ll be using the L293D which I already have. I also wrote some of the firmware for the pi and the arduino controller. I learned that it’s not a good idea to have the cg of the weapon away from the point of rotation. As a results, I remade it to change the cg position. I made sure that my cad was correct with the right dimensions. I added some threads to the weapon system. I contacted places to get quotes for the cnc parts. I also got the general code done. I used previous code from before which had the transceiver.
+
+![Full_Cad_2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--731a4ffbb09c3e9ebabf56670c842fc458b879df/Full_Cad_2.png)
+![Weapon_1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--44911ebd712db901605d210bba944adca251b05c/Weapon_1.png)![Schematic_Robot](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMywicHVyIjoiYmxvYl9pZCJ9fQ==--2e9920e7f563ace4baad62802eb5a9ada169ed23/Schematic_Robot.png)![controller_schematic](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6c430a5b9370c9d546f1a1a5675e8d403e74021d/controller_schematic.png)
+
 
   
 
