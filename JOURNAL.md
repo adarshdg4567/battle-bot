@@ -49,7 +49,10 @@ Once I had both chasis done, I decided to try and fit the components in the chas
 I fixed up the bot 1 which took a while. I had to go back in the timeline and change a lot of parameters and remake the sketches. also made the schematic for the robot. I had to search a lot of the pinouts and I also finally figured out the motor controller for the drive wheels. I’ll be using the L293D which I already have. I also wrote some of the firmware for the pi and the arduino controller. I learned that it’s not a good idea to have the cg of the weapon away from the point of rotation. As a results, I remade it to change the cg position. I made sure that my cad was correct with the right dimensions. I added some threads to the weapon system. I contacted places to get quotes for the cnc parts. I also got the general code done. I used previous code from before which had the transceiver.
 
 ![Full_Cad_2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--731a4ffbb09c3e9ebabf56670c842fc458b879df/Full_Cad_2.png)
-![Weapon_1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--44911ebd712db901605d210bba944adca251b05c/Weapon_1.png)![Schematic_Robot](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMywicHVyIjoiYmxvYl9pZCJ9fQ==--2e9920e7f563ace4baad62802eb5a9ada169ed23/Schematic_Robot.png)![controller_schematic](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6c430a5b9370c9d546f1a1a5675e8d403e74021d/controller_schematic.png)
+![Weapon_1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--44911ebd712db901605d210bba944adca251b05c/Weapon_1.png)
+![controller_schematic](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--1c133e1f0b0ac8db5cba90744033ec4d4976c530/controller_schematic.png)
+![Schematic_Robot](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--fd47f974700a1a39c0c7a1a8257d26b82d9c4352/Schematic_Robot.png)
+
 
 
   
