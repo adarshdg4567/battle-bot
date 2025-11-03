@@ -33,3 +33,14 @@ I spent a lot of time cading out the design. I first started by 150 mm x 150 mm 
 ![Frame](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ec26e69d55a49eb3fd41a330108eb1d26da8d827/Frame.png)
   
 
+## 11/3/2025 - I decided to try and fit the components in the chassis  
+
+Once I had both chasis done, I decided to try and fit the components in the chassis. I followed my original layout and it worked pretty well. I also made the weapon assembly for bot 2. Most of the cad is done for bot 2. For bot 1 I added all the components but as I was adding a top I realized I made the chassis too short so I increased. However, this changed all my other values and so it looks like a mess right now. I’ll fix that for tomorrow and create a schematic.
+
+![Full_Cad_1.3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--6b27ba520c267ce4c4039548a8bf9a96ed2399a0/Full_Cad_1.3.png)
+![Full_Cad_1.2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6fb5a1160618fb5192f24a33046a10ee15eacf1c/Full_Cad_1.2.png)
+![Full_Cad_1.1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5NywicHVyIjoiYmxvYl9pZCJ9fQ==--163c9defd710cdafbce4c69c7da14ad817c514ae/Full_Cad_1.1.png)
+![Problem](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--532bd66c7ddc02673c91151f5d623842bafa22fd/Problem.png)
+
+  
+
